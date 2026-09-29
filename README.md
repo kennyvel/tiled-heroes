@@ -1,6 +1,5 @@
-# Individual Project
 Name: Kenneth Velasquez
-email: kgvelasq@usc.edu
+email: kennyvel805@gmail.com
 
 Hello! Here's a rundown on how the game works:
 
